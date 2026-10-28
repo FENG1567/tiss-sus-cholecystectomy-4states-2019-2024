@@ -1,0 +1,17 @@
+source,uf,year,flow_candidate_count,flow_disposition_sum,flow_difference,flow_closed,TISS_DET_target_candidate_event_IDs,TISS_no_CONS_match,TISS_CONS_projection_conflict,TISS_CONS_structurally_invalid,TISS_unqualified_target_code,TISS_zero_only_target,TISS_A_quantity_ambiguous,TISS_strict_lap_only,TISS_strict_open_only,TISS_strict_both,TISS_A,SUS_RD_target_authorizations_before_canonicalization,SUS_RD_same_comp_projection_conflict_excluded,SUS_RD_unusable_admission_date_excluded,SUS_RD_admission_date_conflict_excluded,SUS_RD_retained_after_canonicalization,SUS_SP_target_authorization_competence_groups,SUS_SP_linked_same_source_competence_groups,SUS_SP_unlinked_target_groups,SUS_all_unmatched_valid_key_SP_rows_background,SUS_primary_candidate_events_before_exclusions,SUS_primary_code_disagreement,SUS_SP_DTINTER_mismatch,SUS_target_quantity_ambiguous,SUS_zero_only_target,SUS_strict_lap_only,SUS_strict_open_only,SUS_strict_both,SUS_A,SUS_nonexclusive_primary_code_disagreement_flags,SUS_nonexclusive_SP_DTINTER_mismatch_flags,SUS_nonexclusive_target_quantity_ambiguous_flags,SUS_RD_main_only_strict_N,SUS_retained_SP_only_union_captures,SUS_retained_SP_only_union_evidence_patterns,SUS_RD_coded_candidates_removed_under_union_exclusions,SUS_RD_only_vs_union_closure_closed
+TISS,AM,2019,1806,1806,0,True,1806,0,0,0,0,0,133,1662,10,1,133,,,,,,,,,,,,,,,,,,,,,,,,,,
+SUS,AM,2019,4304,4304,0,True,,,,,,,,,,,,4007,0,0,0,4007,4304,4304,0,0,4304,0,0,0,0,555,3749,0,0,0,0,0,4007,297,"{""SP_ATOPROF_POSITIVE_QTY"": 297}",0,True
+TISS,AM,2024,1748,1748,0,True,1748,0,0,0,0,0,241,1503,4,0,241,,,,,,,,,,,,,,,,,,,,,,,,,,
+SUS,AM,2024,7018,7018,0,True,,,,,,,,,,,,6680,0,0,0,6680,7018,7018,0,0,7018,0,0,0,0,1396,5622,0,0,0,0,0,6680,338,"{""SP_ATOPROF_POSITIVE_QTY"": 338}",0,True
+TISS,PE,2019,4523,4523,0,True,4523,0,0,0,0,0,268,2954,1291,10,268,,,,,,,,,,,,,,,,,,,,,,,,,,
+SUS,PE,2019,10144,10144,0,True,,,,,,,,,,,,9501,0,0,0,9501,10144,10144,0,14971,10144,0,0,0,0,2831,7312,1,0,0,0,0,9501,643,"{""SP_ATOPROF_POSITIVE_QTY"": 643}",0,True
+TISS,PE,2024,3553,3553,0,True,3553,0,0,0,3,0,840,2638,66,6,840,,,,,,,,,,,,,,,,,,,,,,,,,,
+SUS,PE,2024,13550,13550,0,True,,,,,,,,,,,,12463,0,0,0,12463,13550,13550,0,11338,13550,0,0,0,0,5410,8138,2,0,0,0,0,12463,1087,"{""SP_ATOPROF_POSITIVE_QTY"": 1087}",0,True
+TISS,SP,2019,53125,53125,0,True,53125,0,0,0,11,0,1470,43173,8072,399,1470,,,,,,,,,,,,,,,,,,,,,,,,,,
+SUS,SP,2019,50871,50871,0,True,,,,,,,,,,,,46783,0,0,0,46783,50871,50871,0,240187,50871,0,0,0,0,32612,18256,3,0,0,0,0,46783,4088,"{""SP_ATOPROF_POSITIVE_QTY"": 4088}",0,True
+TISS,SP,2024,65470,65470,0,True,65470,0,0,0,52,0,7792,51729,5659,238,7792,,,,,,,,,,,,,,,,,,,,,,,,,,
+SUS,SP,2024,65615,65615,0,True,,,,,,,,,,,,61356,0,0,0,61356,65615,65615,0,379355,65615,0,0,0,0,53223,12380,12,0,0,0,0,61356,4259,"{""SP_ATOPROF_POSITIVE_QTY"": 4259}",0,True
+TISS,RS,2019,5435,5435,0,True,5435,0,0,0,0,0,35,5233,155,12,35,,,,,,,,,,,,,,,,,,,,,,,,,,
+SUS,RS,2019,18050,18050,0,True,,,,,,,,,,,,17366,0,0,0,17366,18050,18050,0,12286,18050,0,0,0,0,10288,7762,0,0,0,0,0,17366,684,"{""SP_ATOPROF_POSITIVE_QTY"": 684}",0,True
+TISS,RS,2024,4522,4522,0,True,4522,0,0,0,5,0,195,4205,112,5,195,,,,,,,,,,,,,,,,,,,,,,,,,,
+SUS,RS,2024,21424,21424,0,True,,,,,,,,,,,,20410,0,0,0,20410,21424,21424,0,23934,21424,0,0,0,0,16451,4968,5,0,0,0,0,20410,1014,"{""SP_ATOPROF_POSITIVE_QTY"": 1014}",0,True

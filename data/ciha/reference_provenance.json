@@ -1,0 +1,31 @@
+{
+  "provenance_scope": "Local aggregate reproduction package for the separate CIHA-SIH comparison branch.",
+  "original_aggregate_sha256": "a13546f56014ddf665f6affa5a2764863327a306b7521f6e1c5f7eae44ffa47f",
+  "original_aggregate_rows": 33972,
+  "relabelled_aggregate_file": "engine_counts_relabelled.csv",
+  "relabelled_aggregate_sha256": "dd7944ef74be35d90420b489e767c430be6957fca0aa022e5d2fb673ba605306",
+  "frozen_reference_file": "reference_branch_summary.csv",
+  "frozen_reference_sha256": "f94ca5a280142afe457be707c6384642f2cd2cc6e1bf6b7cd4f8bcbaf8681d63",
+  "frozen_parameters": {
+    "years": [
+      2019,
+      2024
+    ],
+    "branches": [
+      "main_k80_clinical",
+      "main_no_sex",
+      "main_sex_swap_p",
+      "same_hospital_year",
+      "same_hospital_quarter",
+      "k800_clinical",
+      "all_indication_clinical",
+      "main_crossyear_common_hospitals"
+    ],
+    "bootstrap_repetitions": 2000,
+    "bootstrap_seed": 20261024,
+    "minimum_common_hospitals": 30,
+    "minimum_supported_hospitals": 30,
+    "minimum_support_coverage_within_common_hospitals": 0.8
+  },
+  "path_handling": "Repository metadata omits local source paths, raw hospital keys, and the reverse relabeling map."
+}

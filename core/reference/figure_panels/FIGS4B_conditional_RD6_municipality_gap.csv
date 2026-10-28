@@ -1,0 +1,3 @@
+"evidence_id","uf","year","state_name","cell_label","conditional_label","municipality_only_H_strata","municipality_only_TISS_H_coverage_percent","municipality_only_SUS_H_coverage_percent","municipality_only_standardized_gap_pp","geography_is_same_hospital_comparison","main_geography_status"
+"E_CONDITIONAL_GEOGRAPHY","SP",2019,"São Paulo","São Paulo (SP) · 2019","CONDITIONAL_RD6_CONVENTION_SENSITIVITY",99,98.4005886453412,83.1809872029251,16.4722134111826,"false","held_unverified"
+"E_CONDITIONAL_GEOGRAPHY","SP",2024,"São Paulo","São Paulo (SP) · 2024","CONDITIONAL_RD6_CONVENTION_SENSITIVITY",103,98.6499149689376,83.0633239350758,5.9894227137344,"false","held_unverified"

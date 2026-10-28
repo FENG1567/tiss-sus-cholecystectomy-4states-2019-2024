@@ -1,0 +1,33 @@
+source,file,field,analysis_role,interpretation_or_limit
+TISS,CONS,ID_EVENTO_ATENCAO_SAUDE,Within-source event linkage,Used with year; not a verified cross-source patient or hospital key
+TISS,CONS/DET,UF_PRESTADOR,State assignment,Provider state under frozen four-state selection
+TISS,CONS/DET,ANO_MES_EVENTO,Administrative event month,Kept within source-year rules
+TISS,CONS,FAIXA_ETARIA,Recorded age band,No exact adult split within 15–19; unknown/unmapped retained separately
+TISS,CONS,SEXO,Recorded sex,Known F/M only in standardization; unknown remains in all-record denominator
+TISS,CONS,CD_CARATER_ATENDIMENTO,Recorded urgency,Elective/emergency target strata; unknown remains in all-record denominator
+TISS,DET,CD_PROCEDIMENTO,Fixed procedure code family,String; four targets only
+TISS,DET,CD_TABELA_REFERENCIA,Code-table qualification,Explicit table 22 required
+TISS,DET,IND_TABELA_PROPRIA,Own-table qualification,Own-table and unresolved qualification not accepted as valid target evidence
+TISS,DET,QT_ITEM_EVENTO_INFORMADO,Quantity qualification,Any qualified target ambiguity places otherwise eligible event in disjoint A; zero-only not occurrence
+TISS,DET,IND_PACOTE,Package indicator,Retained as source evidence; does not establish completed or paid surgery
+TISS,CONS,CID_1,Diagnosis feasibility,First-diagnosis field; not proven equivalent to SIH principal diagnosis
+TISS,CONS,CID_2/CID_3/CID_4,Additional recorded diagnosis fields,Not a substitute for compatible primary clinical phenotype
+TISS,CONS,CD_MUNICIPIO_PRESTADOR,Provider municipality,No same-hospital identification
+TISS,CONS,CD_MUNICIPIO_BENEFICIARIO,Residence municipality,Conditional mapping; no verified travel-time measure
+SUS,RD,N_AIH,Authorization identity,13-digit internal key salted during processing; not redistributed
+SUS,RD,IDENT,Authorization eligibility,Normal IDENT=1 only
+SUS,RD,ANO_CMPT/MES_CMPT,Source competence,Canonical latest valid competence within year after frozen conflict exclusions
+SUS,RD,DT_INTER,Admission date,Used in canonical conflict handling; not exact operation time
+SUS,RD,PROC_REA,Principal procedure,Fixed SIGTAP string targets; leading zero retained
+SUS,RD,COD_IDADE/IDADE,Age derivation,Original age bands before fixed five-pool standardization
+SUS,RD,SEXO,Recorded sex,Frozen mapping; unknown separate
+SUS,RD,CAR_INT,Recorded urgency,Frozen elective/emergency mapping
+SUS,RD,DIAG_PRINC,Diagnosis feasibility,Principal diagnosis; format validity not clinical correctness
+SUS,RD,MUNIC_RES,Residence geography,Conditional six-digit RD mapping convention
+SUS,RD,MUNIC_MOV,Provider geography,Conditional municipality mapping; not shared hospital key
+SUS,SP,SP_NAIH,Link to canonical RD,Same year and source competence as canonical authorization
+SUS,SP,SP_AA/SP_MM,SP competence,Same-competence linkage required
+SUS,SP,SP_DTINTER,SP admission-date evidence,Valid disagreements excluded under frozen primary union rules
+SUS,SP,SP_PROCREA,Principal-operation evidence,Valid disagreement with canonical principal procedure excluded
+SUS,SP,SP_ATOPROF,Professional-act code evidence,Target evidence requires positive SP_QTD_ATO
+SUS,SP,SP_QTD_ATO,Professional-act quantity,Ambiguous target quantity excluded from primary union

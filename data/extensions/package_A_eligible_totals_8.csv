@@ -1,0 +1,9 @@
+uf,year,eligible_A_total,eligible_A_inside_H,eligible_A_outside_H_or_unmapped,lap_only_A_total,open_only_A_total,both_A_total,lap_only_A_inside_H,open_only_A_inside_H,both_A_inside_H
+AM,2019,72,67,5,72,0,0,67,0,0
+AM,2024,6,6,0,6,0,0,6,0,0
+PE,2019,7,7,0,7,0,0,7,0,0
+PE,2024,127,125,2,127,0,0,125,0,0
+RS,2019,3,3,0,3,0,0,3,0,0
+RS,2024,18,18,0,16,2,0,16,2,0
+SP,2019,280,276,4,254,26,0,251,25,0
+SP,2024,2525,2524,1,2423,56,46,2423,56,45

@@ -1,0 +1,31 @@
+"uf","year","target_code_family","package_flag_group","quantity_exception_class","event_count"
+"AM",2019,"Lap-only (L)","Yes on all qualified rows","Missing quantity",72
+"AM",2019,"Lap-only (L)","Yes mixed with no/unknown","Missing quantity",61
+"AM",2024,"Lap-only (L)","Yes on all qualified rows","Missing quantity",6
+"AM",2024,"Lap-only (L)","Yes mixed with no/unknown","Missing quantity",235
+"PE",2019,"Both (B)","Yes mixed with no/unknown","Missing quantity",1
+"PE",2019,"Lap-only (L)","Yes on all qualified rows","Missing quantity",7
+"PE",2019,"Lap-only (L)","Yes mixed with no/unknown","Missing quantity",260
+"PE",2024,"Both (B)","Yes mixed with no/unknown","Missing quantity",1
+"PE",2024,"Lap-only (L)","Yes on all qualified rows","Missing quantity",127
+"PE",2024,"Lap-only (L)","Yes mixed with no/unknown","Missing quantity",711
+"PE",2024,"Comparator-family only (O)","Yes mixed with no/unknown","Missing quantity",1
+"SP",2019,"Both (B)","Yes mixed with no/unknown","Missing quantity",206
+"SP",2019,"Lap-only (L)","No on all qualified rows","Malformed quantity",1
+"SP",2019,"Lap-only (L)","Yes on all qualified rows","Missing quantity",254
+"SP",2019,"Lap-only (L)","Yes mixed with no/unknown","Missing quantity",973
+"SP",2019,"Comparator-family only (O)","No on all qualified rows","Malformed quantity",6
+"SP",2019,"Comparator-family only (O)","Yes on all qualified rows","Missing quantity",26
+"SP",2019,"Comparator-family only (O)","Yes mixed with no/unknown","Missing quantity",4
+"SP",2024,"Both (B)","Yes on all qualified rows","Missing quantity",46
+"SP",2024,"Both (B)","Yes mixed with no/unknown","Missing quantity",69
+"SP",2024,"Lap-only (L)","Yes on all qualified rows","Missing quantity",2423
+"SP",2024,"Lap-only (L)","Yes mixed with no/unknown","Missing quantity",5163
+"SP",2024,"Comparator-family only (O)","Yes on all qualified rows","Missing quantity",56
+"SP",2024,"Comparator-family only (O)","Yes mixed with no/unknown","Missing quantity",35
+"RS",2019,"Lap-only (L)","Yes on all qualified rows","Missing quantity",3
+"RS",2019,"Lap-only (L)","Yes mixed with no/unknown","Missing quantity",32
+"RS",2024,"Both (B)","Yes mixed with no/unknown","Missing quantity",17
+"RS",2024,"Lap-only (L)","Yes on all qualified rows","Missing quantity",16
+"RS",2024,"Lap-only (L)","Yes mixed with no/unknown","Missing quantity",160
+"RS",2024,"Comparator-family only (O)","Yes on all qualified rows","Missing quantity",2

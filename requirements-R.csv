@@ -1,0 +1,9 @@
+component,version_tested,role
+R,4.3.1,Tested R runtime; Cairo graphics capability required for PDF export
+ggplot2,3.4.3,Plot composition and geoms
+patchwork,1.1.3,Multi-panel figure layout
+dplyr,1.1.2,Tabular transformations
+tidyr,1.3.0,Panel data reshaping
+svglite,2.1.3,SVG export
+ragg,1.2.5,PNG export
+scales,1.2.1,Axis labels and number formatting

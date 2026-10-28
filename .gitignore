@@ -1,0 +1,21 @@
+/out/
+/results/
+/build/
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Rproj.user/
+*.rds
+
+# Local environments and source records are not part of this release.
+.venv/
+.env
+.env.*
+*.pem
+*.key
+/raw/
+*.dbc
+*.dbf
+*.sqlite
+*.sqlite3

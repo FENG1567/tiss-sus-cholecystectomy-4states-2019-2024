@@ -1,0 +1,30 @@
+{
+  "file": "engine_counts_relabelled.csv",
+  "sha256": "dd7944ef74be35d90420b489e767c430be6957fca0aa022e5d2fb673ba605306",
+  "rows": 33972,
+  "count_total": 148037,
+  "study_cluster_count": 454,
+  "original_aggregate_sha256": "a13546f56014ddf665f6affa5a2764863327a306b7521f6e1c5f7eae44ffa47f",
+  "original_aggregate_rows": 33972,
+  "relabeling": {
+    "field": "cnes",
+    "output_label_pattern": "H000001..H{study_cluster_count:06d}",
+    "ordering": "sequential study-cluster IDs assigned in the exact lexicographic sort order of distinct original hospital keys across all input rows",
+    "one_to_one": true,
+    "row_order_preserved": true,
+    "all_non_key_fields_preserved_exactly": true,
+    "reverse_mapping_included": false,
+    "label_semantics": "relabelled cluster IDs; not a guarantee of anonymity"
+  },
+  "schema": [
+    "year",
+    "source",
+    "cnes",
+    "age_band",
+    "sex",
+    "diag_group",
+    "discharge_quarter",
+    "procedure",
+    "n"
+  ]
+}

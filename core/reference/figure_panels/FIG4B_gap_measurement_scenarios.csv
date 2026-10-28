@@ -1,0 +1,9 @@
+"evidence_id","uf","year","state_name","cell_label","scenario_lower_gap_pp","scenario_upper_gap_pp","strict_standardized_gap_pp","scenario_classification","scenario_is_confidence_interval","unit","cell_y"
+"E_PRIMARY_AGGREGATES","AM",2019,"Amazonas","Amazonas (AM) · 2019",78.0445893096799,85.6999684506338,85.5908541322333,"all_positive","false","percentage points",8
+"E_PRIMARY_AGGREGATES","AM",2024,"Amazonas","Amazonas (AM) · 2024",66.0834255329522,80.074259262179,80.0411237879896,"all_positive","false","percentage points",7
+"E_PRIMARY_AGGREGATES","PE",2019,"Pernambuco","Pernambuco (PE) · 2019",38.0756983942245,44.7085954945609,42.8404353455984,"all_positive","false","percentage points",6
+"E_PRIMARY_AGGREGATES","PE",2024,"Pernambuco","Pernambuco (PE) · 2024",34.7529873905738,59.1727715576532,58.3563993918172,"all_positive","false","percentage points",5
+"E_PRIMARY_AGGREGATES","RS",2019,"Rio Grande do Sul","Rio Grande do Sul (RS) · 2019",39.6625057073566,40.4996994963431,40.2441624443067,"all_positive","false","percentage points",4
+"E_PRIMARY_AGGREGATES","RS",2024,"Rio Grande do Sul","Rio Grande do Sul (RS) · 2024",16.6046795648391,20.9315445099487,20.7123282021932,"all_positive","false","percentage points",3
+"E_PRIMARY_AGGREGATES","SP",2019,"São Paulo","São Paulo (SP) · 2019",17.5997941546174,21.1364300182989,19.9531952273064,"all_positive","false","percentage points",2
+"E_PRIMARY_AGGREGATES","SP",2024,"São Paulo","São Paulo (SP) · 2024",-1.57295802990164,10.6665060355857,9.15115459125002,"crosses_zero","false","percentage points",1

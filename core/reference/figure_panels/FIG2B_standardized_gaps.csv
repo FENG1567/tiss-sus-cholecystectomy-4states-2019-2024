@@ -1,0 +1,9 @@
+"evidence_id","uf","year","state_name","cell_label","standardized_gap_pp_TISS_minus_SUS","difference_unit","TISS_N_in_H_records","SUS_N_in_H_records"
+"E_PRIMARY_AGGREGATES","AM",2019,"Amazonas","Amazonas (AM) · 2019",85.5908541322333,"percentage points",1601,3940
+"E_PRIMARY_AGGREGATES","AM",2024,"Amazonas","Amazonas (AM) · 2024",80.0411237879896,"percentage points",1468,6737
+"E_PRIMARY_AGGREGATES","PE",2019,"Pernambuco","Pernambuco (PE) · 2019",42.8404353455984,"percentage points",4184,9971
+"E_PRIMARY_AGGREGATES","PE",2024,"Pernambuco","Pernambuco (PE) · 2024",58.3563993918172,"percentage points",2621,13381
+"E_PRIMARY_AGGREGATES","RS",2019,"Rio Grande do Sul","Rio Grande do Sul (RS) · 2019",40.2441624443067,"percentage points",5280,17742
+"E_PRIMARY_AGGREGATES","RS",2024,"Rio Grande do Sul","Rio Grande do Sul (RS) · 2024",20.7123282021932,"percentage points",4294,21202
+"E_PRIMARY_AGGREGATES","SP",2019,"São Paulo","São Paulo (SP) · 2019",19.9531952273064,"percentage points",50818,50853
+"E_PRIMARY_AGGREGATES","SP",2024,"São Paulo","São Paulo (SP) · 2024",9.15115459125002,"percentage points",57448,65605

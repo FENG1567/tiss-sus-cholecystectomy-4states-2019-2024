@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and this versioned repository."
+title: "TISS–SUS Cholecystectomy Code Composition: Aggregate Reproduction Package"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/FENG1567/tiss-sus-cholecystectomy-4states-2019-2024"
+url: "https://github.com/FENG1567/tiss-sus-cholecystectomy-4states-2019-2024"
+date-released: 2026-10-28
+authors:
+  - family-names: Feng
+    given-names: Shuo
+  - family-names: Shi
+    given-names: Chao
+  - family-names: Liu
+    given-names: Tianming
+  - family-names: Ding
+    given-names: Haoran
+  - family-names: Hang
+    given-names: Fenghe
+  - family-names: Huang
+    given-names: Zhenghao
+  - family-names: Meng
+    given-names: Xianzhi

@@ -1,0 +1,77 @@
+relative_path,kind,purpose,bytes
+.gitattributes,repository_configuration,Repository behavior and file integrity,8
+.gitignore,repository_configuration,Repository behavior and file integrity,243
+CITATION.cff,licensing_and_citation,"Code license, source access, reuse terms or citation metadata",789
+CODE_AVAILABILITY.md,documentation,Manuscript-ready code availability statement with public repository URL,387
+CODE_AVAILABILITY_TEMPLATE.md,documentation,"Execution, data definitions, result mapping or upload guidance",387
+core/reference/A_breakdown_TISS.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,2019
+core/reference/AGE_ORIGINAL_BAND_DESCRIPTIVES.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,61106
+core/reference/BASELINE_COUNTS_16.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,4242
+core/reference/CLINICAL_K80_DESCRIPTIVES.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,6476
+core/reference/CONDITIONAL_GEOGRAPHY_8.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,6292
+core/reference/FEASIBILITY_GATES.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,42666
+core/reference/figure_panels/FIG1A_record_volumes.csv,plot_reference,Data for a figure panel,1970
+core/reference/figure_panels/FIG1B_strict_code_composition.csv,plot_reference,Data for a figure panel,19396
+core/reference/figure_panels/FIG1C_TISS_A_share.csv,plot_reference,Data for a figure panel,944
+core/reference/figure_panels/FIG2A_standardized_source_fractions.csv,plot_reference,Data for a figure panel,1779
+core/reference/figure_panels/FIG2B_standardized_gaps.csv,plot_reference,Data for a figure panel,1138
+core/reference/figure_panels/FIG3A_gap_estimands.csv,plot_reference,Data for a figure panel,33910
+core/reference/figure_panels/FIG3B_common_H_coverage.csv,plot_reference,Data for a figure panel,1869
+core/reference/figure_panels/FIG4A_source_specific_measurement_scenarios.csv,plot_reference,Data for a figure panel,2500
+core/reference/figure_panels/FIG4B_gap_measurement_scenarios.csv,plot_reference,Data for a figure panel,1578
+core/reference/figure_panels/FIG5A_prior_urgency_contrasts.csv,plot_reference,Data for a figure panel,7505
+core/reference/figure_panels/FIG5B_prior_RD_only_sensitivity.csv,plot_reference,Data for a figure panel,3748
+core/reference/figure_panels/FIGS1_monthly_strict_record_counts.csv,plot_reference,Data for a figure panel,112513
+core/reference/figure_panels/FIGS2A_original_age_distribution.csv,plot_reference,Data for a figure panel,29906
+core/reference/figure_panels/FIGS2B_recorded_sex_distribution.csv,plot_reference,Data for a figure panel,6425
+core/reference/figure_panels/FIGS3A_diagnosis_format_coverage.csv,plot_reference,Data for a figure panel,2098
+core/reference/figure_panels/FIGS3B_lap_open_format_coverage_gap.csv,plot_reference,Data for a figure panel,2465
+core/reference/figure_panels/FIGS4A_municipality_H_support.csv,plot_reference,Data for a figure panel,3002
+core/reference/figure_panels/FIGS4B_conditional_RD6_municipality_gap.csv,plot_reference,Data for a figure panel,687
+core/reference/figure_panels/FIGS5A_A_breakdown_TISS_display_grid.csv,plot_reference,Data for a figure panel,5918
+core/reference/figure_panels/FIGS5A_A_breakdown_TISS_observed.csv,plot_reference,Data for a figure panel,2454
+core/reference/figure_panels/FIGS5B_package_code_presence_auxiliary.csv,plot_reference,Data for a figure panel,2049
+core/reference/figure_panels/FIGS5B_standardized_gap_points.csv,plot_reference,Data for a figure panel,1309
+core/reference/H_STRATA.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,56989
+core/reference/MEASUREMENT_SCENARIOS_8.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,5172
+core/reference/MONTHLY_DESCRIPTIVES_PRIOR.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,135069
+core/reference/package_code_presence_aux_8.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,1433
+core/reference/PRIOR_RD_ONLY_SENSITIVITY_8.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,5759
+core/reference/PRIOR_URGENCY_CONTRASTS_16.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,11815
+core/reference/SEX_DESCRIPTIVES.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,12328
+core/reference/STATE_YEAR_TABLE_8.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,11873
+core/reference/URGENCY_DESCRIPTIVES.csv,aggregate_count_or_reference,Published aggregate count input or downstream numeric comparison reference,12999
+data/ciha/engine_counts_relabelled.csv,ciha_aggregate_input,Separate CIHA branch hospital-stratum aggregates or comparison reference,1255186
+data/ciha/input_manifest.json,ciha_aggregate_input,Separate CIHA branch hospital-stratum aggregates or comparison reference,1001
+data/ciha/reference_branch_summary.csv,ciha_aggregate_input,Separate CIHA branch hospital-stratum aggregates or comparison reference,9241
+data/ciha/reference_provenance.json,ciha_aggregate_input,Separate CIHA branch hospital-stratum aggregates or comparison reference,1245
+data/extensions/flow_counts_16.csv,aggregate_input,"Known-joint, package-A and source-flow sufficient statistics",3371
+data/extensions/joint_counts_known.csv,aggregate_input,"Known-joint, package-A and source-flow sufficient statistics",14808
+data/extensions/package_A_by_H.csv,aggregate_input,"Known-joint, package-A and source-flow sufficient statistics",4429
+data/extensions/package_A_eligible_totals_8.csv,aggregate_input,"Known-joint, package-A and source-flow sufficient statistics",442
+data/metadata/procedure_and_field_crosswalk.csv,source_metadata,Procedure/field definitions and versioned source evidence,18592
+data/metadata/sigtap_2019_2024_monthly_codes.csv,source_metadata,Procedure/field definitions and versioned source evidence,7793
+data/metadata/variable_field_map.csv,source_metadata,Procedure/field definitions and versioned source evidence,3236
+DATA_SOURCES.md,licensing_and_citation,"Code license, source access, reuse terms or citation metadata",2363
+docs/CIHA_REPRODUCTION.md,documentation,"Execution, data definitions, result mapping or upload guidance",8583
+docs/ENVIRONMENT.md,documentation,"Execution, data definitions, result mapping or upload guidance",2427
+docs/EXTENSIONS_REPRODUCTION.md,documentation,"Execution, data definitions, result mapping or upload guidance",6540
+docs/INPUTS.md,documentation,"Execution, data definitions, result mapping or upload guidance",3471
+docs/RESULTS_MAP.csv,documentation,"Execution, data definitions, result mapping or upload guidance",7151
+install_R_dependencies.R,runtime,Runtime versions or dependency installation,1541
+LICENSE,licensing_and_citation,"Code license, source access, reuse terms or citation metadata",1104
+plotting/plot_figures.R,figure_code,Ten current figure compositions and 22 panel tables,51503
+README.md,documentation,"Execution, data definitions, result mapping or upload guidance",6916
+README_中文.md,documentation,"Execution, data definitions, result mapping or upload guidance",5667
+requirements-ciha.txt,runtime,Runtime versions or dependency installation,92
+requirements-R.csv,runtime,Runtime versions or dependency installation,352
+requirements.txt,runtime,Runtime versions or dependency installation,71
+scripts/reproduce.py,entrypoint,Portable reproduction command,5107
+src/__init__.py,analysis_code,"Core, extension or CIHA calculation",70
+src/ciha.py,analysis_code,"Core, extension or CIHA calculation",16617
+src/ciha_engine.py,analysis_code,"Core, extension or CIHA calculation",24168
+src/core.py,analysis_code,"Core, extension or CIHA calculation",33901
+src/extensions.py,analysis_code,"Core, extension or CIHA calculation",40621
+tools/export_sufficient_statistics.py,input_export_tool,Optional export of sufficient-statistic inputs from external aggregate sources,15328
+UPLOAD_FILE_LIST.csv,inventory,File inventory for this repository,8755
+整理与补齐说明_中文.md,documentation,"Execution, data definitions, result mapping or upload guidance",4541
